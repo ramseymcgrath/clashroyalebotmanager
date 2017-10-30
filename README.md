@@ -1,0 +1,1 @@
+Tool to control multiple Clash Royale bots
